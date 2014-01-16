@@ -9,10 +9,9 @@ body
 
     border-style:solid;
     border-width:2px;
-    background-color:cadetblue;
+    background-color:lightblue;
     z-index:+1;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    margin-top: 13px;
     margin-left: 30px;
     margin-right: 30px;
 }
@@ -28,7 +27,6 @@ body
     height:80px;
     background-color:rgba(255, 255, 255, .5);
     float:right;
-    margin-top:10px;
     margin-right:10px;
 }
 #menu a{
@@ -47,10 +45,11 @@ a:active{
     color:#
 }
 footer{
+    background-color:lightblue;
     border-style:solid;
     border-width:2px;
-    margin-bottom:10px;
-    margin-top:10px;
+    margin-bottom:13px;
+    margin-top:13px;
 }
 
 #introduction{
@@ -59,10 +58,11 @@ footer{
     border-width:2px;
     margin-left:30px;
     margin-right:30px;
-    margin-top:20px;
-    margin-bottom: 20px;
+    margin-top:13px;
+    margin-bottom:13px;
+    text-transform:uppercase;
 }
-h4{color:cadetblue;
+h4{color:powderblue;
 }
 /*
 Responsive 996px grid system ~ Style CSS.
