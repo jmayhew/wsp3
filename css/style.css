@@ -130,6 +130,17 @@ h4{color:powderblue;
     margin-top:13px;
     margin-bottom:13px;
     color:powderblue;}
+#sign-up{
+    background-color:#FFFFFF;
+    border-style:solid;
+    border-width:2px;
+    margin-left:30px;
+    margin-right:30px;
+    margin-top:13px;
+    margin-bottom:13px;
+    color:powderblue;}
+
+
 /*
 Responsive 996px grid system ~ Style CSS.
 Copyright 2013, Josh Cope
