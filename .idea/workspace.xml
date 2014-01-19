@@ -30,6 +30,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search-results.html" afterPath="$PROJECT_DIR$/search-results.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sorbet.html" afterPath="$PROJECT_DIR$/sorbet.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/special-occasions.html" afterPath="$PROJECT_DIR$/special-occasions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testimonials.html" afterPath="$PROJECT_DIR$/testimonials.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/today's-flavours.html" afterPath="$PROJECT_DIR$/today's-flavours.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user-login.html" afterPath="$PROJECT_DIR$/user-login.html" />
@@ -60,7 +61,7 @@
       <file leaf-file-name="search-results.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/search-results.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="51" selection-start="2207" selection-end="2372" vertical-scroll-proportion="-16.791666" vertical-offset="497" max-vertical-offset="1110">
+            <state line="22" column="23" selection-start="930" selection-end="930" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1110">
               <folding />
             </state>
           </provider>
@@ -69,7 +70,7 @@
       <file leaf-file-name="sorbet.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sorbet.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="59" selection-start="2103" selection-end="2103" vertical-scroll-proportion="-10.916667" vertical-offset="488" max-vertical-offset="1065">
+            <state line="22" column="23" selection-start="932" selection-end="932" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1035">
               <folding />
             </state>
           </provider>
@@ -78,7 +79,7 @@
       <file leaf-file-name="testimonials.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testimonials.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="59" selection-start="2099" selection-end="2099" vertical-scroll-proportion="-14.291667" vertical-offset="407" max-vertical-offset="2265">
+            <state line="22" column="23" selection-start="928" selection-end="928" vertical-scroll-proportion="-5.9166665" vertical-offset="188" max-vertical-offset="2295">
               <folding />
             </state>
           </provider>
@@ -87,7 +88,7 @@
       <file leaf-file-name="user-sign-up.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/user-sign-up.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="59" selection-start="2099" selection-end="2099" vertical-scroll-proportion="0.8478702" vertical-offset="332" max-vertical-offset="1065">
+            <state line="22" column="23" selection-start="928" selection-end="928" vertical-scroll-proportion="0.6693712" vertical-offset="0" max-vertical-offset="1035">
               <folding />
             </state>
           </provider>
@@ -96,7 +97,7 @@
       <file leaf-file-name="result-detail.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/result-detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="59" selection-start="1350" selection-end="2100" vertical-scroll-proportion="-7.5" vertical-offset="570" max-vertical-offset="1095">
+            <state line="22" column="23" selection-start="929" selection-end="929" vertical-scroll-proportion="-5.625" vertical-offset="195" max-vertical-offset="1125">
               <folding />
             </state>
           </provider>
@@ -105,7 +106,7 @@
       <file leaf-file-name="rolls.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rolls.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="59" selection-start="2104" selection-end="2104" vertical-scroll-proportion="-14.291667" vertical-offset="407" max-vertical-offset="1080">
+            <state line="22" column="23" selection-start="933" selection-end="933" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1035">
               <folding />
             </state>
           </provider>
@@ -114,7 +115,7 @@
       <file leaf-file-name="roses.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/roses.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="59" selection-start="2097" selection-end="2097" vertical-scroll-proportion="-14.291667" vertical-offset="407" max-vertical-offset="1080">
+            <state line="22" column="23" selection-start="926" selection-end="926" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1035">
               <folding />
             </state>
           </provider>
@@ -123,7 +124,7 @@
       <file leaf-file-name="ruby-violet's-ice-cream-dreams.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ruby-violet's-ice-cream-dreams.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="59" selection-start="2112" selection-end="2112" vertical-scroll-proportion="-9.333333" vertical-offset="526" max-vertical-offset="1020">
+            <state line="22" column="23" selection-start="941" selection-end="941" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1050">
               <folding />
             </state>
           </provider>
@@ -132,7 +133,7 @@
       <file leaf-file-name="saved-items.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/saved-items.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="51" selection-start="2365" selection-end="2365" vertical-scroll-proportion="-14.583333" vertical-offset="535" max-vertical-offset="1110">
+            <state line="22" column="23" selection-start="927" selection-end="927" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1125">
               <folding />
             </state>
           </provider>
@@ -141,7 +142,7 @@
       <file leaf-file-name="layered-balls.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layered-balls.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="59" selection-start="2105" selection-end="2105" vertical-scroll-proportion="-13.333333" vertical-offset="430" max-vertical-offset="1080">
+            <state line="22" column="23" selection-start="934" selection-end="934" vertical-scroll-proportion="-10.0" vertical-offset="90" max-vertical-offset="1035">
               <folding />
             </state>
           </provider>
@@ -160,9 +161,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/search-results.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/baked-alaska.html" />
         <option value="$PROJECT_DIR$/bombes.html" />
@@ -182,11 +182,12 @@
         <option value="$PROJECT_DIR$/meringues.html" />
         <option value="$PROJECT_DIR$/news.html" />
         <option value="$PROJECT_DIR$/parlour.html" />
+        <option value="$PROJECT_DIR$/result-detail.html" />
         <option value="$PROJECT_DIR$/rolls.html" />
         <option value="$PROJECT_DIR$/roses.html" />
         <option value="$PROJECT_DIR$/ruby-violet's-ice-cream-dreams.html" />
         <option value="$PROJECT_DIR$/saved-items.html" />
-        <option value="$PROJECT_DIR$/result-detail.html" />
+        <option value="$PROJECT_DIR$/search-results.html" />
         <option value="$PROJECT_DIR$/sorbet.html" />
         <option value="$PROJECT_DIR$/special-occasions.html" />
         <option value="$PROJECT_DIR$/testimonials.html" />
@@ -273,6 +274,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../wsp/index.html" />
+    <property name="SearchEverywhereHistory" value="=" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -447,231 +449,231 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="6" selection-start="1065" selection-end="1065" vertical-scroll-proportion="0.0" vertical-offset="795" max-vertical-offset="2010">
+        <state line="131" column="21" selection-start="2481" selection-end="2481" vertical-scroll-proportion="0.0" vertical-offset="1465" max-vertical-offset="2805">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="1342" selection-end="2092" vertical-scroll-proportion="-8.666667" vertical-offset="542" max-vertical-offset="1755">
+        <state line="22" column="23" selection-start="921" selection-end="921" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1725">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baked-alaska.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2094" selection-end="2094" vertical-scroll-proportion="-16.25" vertical-offset="360" max-vertical-offset="1080">
+        <state line="22" column="23" selection-start="923" selection-end="923" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bombes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2098" selection-end="2098" vertical-scroll-proportion="0.48681542" vertical-offset="510" max-vertical-offset="1065">
+        <state line="22" column="23" selection-start="927" selection-end="927" vertical-scroll-proportion="0.6693712" vertical-offset="0" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/box-chocolates.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2099" selection-end="2099" vertical-scroll-proportion="-14.291667" vertical-offset="407" max-vertical-offset="1050">
+        <state line="22" column="23" selection-start="928" selection-end="928" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/brittle.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2100" selection-end="2100" vertical-scroll-proportion="-15.0" vertical-offset="390" max-vertical-offset="1065">
+        <state line="22" column="23" selection-start="929" selection-end="929" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/caramel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2108" selection-end="2108" vertical-scroll-proportion="-15.625" vertical-offset="375" max-vertical-offset="1080">
+        <state line="22" column="23" selection-start="937" selection-end="937" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chocolate-letters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2120" selection-end="2120" vertical-scroll-proportion="0.8478702" vertical-offset="332" max-vertical-offset="1080">
+        <state line="22" column="23" selection-start="949" selection-end="949" vertical-scroll-proportion="0.6693712" vertical-offset="0" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2094" selection-end="2094" vertical-scroll-proportion="0.4651163" vertical-offset="510" max-vertical-offset="1335">
+        <state line="22" column="23" selection-start="923" selection-end="923" vertical-scroll-proportion="0.57403654" vertical-offset="47" max-vertical-offset="1395">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/deliveries.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2092" selection-end="2092" vertical-scroll-proportion="0.6647287" vertical-offset="407" max-vertical-offset="1065">
+        <state line="22" column="23" selection-start="921" selection-end="921" vertical-scroll-proportion="0.6693712" vertical-offset="0" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/events.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2093" selection-end="2093" vertical-scroll-proportion="0.6647287" vertical-offset="407" max-vertical-offset="1395">
+        <state line="22" column="23" selection-start="922" selection-end="922" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1395">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2094" selection-end="2094" vertical-scroll-proportion="-14.291667" vertical-offset="407" max-vertical-offset="1275">
+        <state line="22" column="23" selection-start="923" selection-end="923" vertical-scroll-proportion="-12.416667" vertical-offset="32" max-vertical-offset="1290">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gelollies.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2091" selection-end="2091" vertical-scroll-proportion="-14.291667" vertical-offset="407" max-vertical-offset="1080">
+        <state line="22" column="23" selection-start="920" selection-end="920" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gift-tokens.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2105" selection-end="2105" vertical-scroll-proportion="0.7423935" vertical-offset="384" max-vertical-offset="1065">
+        <state line="22" column="23" selection-start="934" selection-end="934" vertical-scroll-proportion="0.6693712" vertical-offset="0" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/iced-letters.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2115" selection-end="2115" vertical-scroll-proportion="-15.25" vertical-offset="384" max-vertical-offset="1080">
+        <state line="22" column="23" selection-start="944" selection-end="944" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="46" selection-start="1361" selection-end="1361" vertical-scroll-proportion="0.45233265" vertical-offset="362" max-vertical-offset="1155">
+        <state line="22" column="23" selection-start="511" selection-end="920" vertical-scroll-proportion="0.37931034" vertical-offset="143" max-vertical-offset="1230">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/layer-cakes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2103" selection-end="2103" vertical-scroll-proportion="-14.291667" vertical-offset="407" max-vertical-offset="1065">
+        <state line="22" column="23" selection-start="932" selection-end="932" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/layered-balls.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2105" selection-end="2105" vertical-scroll-proportion="-13.333333" vertical-offset="430" max-vertical-offset="1080">
+        <state line="22" column="23" selection-start="934" selection-end="934" vertical-scroll-proportion="-10.0" vertical-offset="90" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/meringues.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2096" selection-end="2096" vertical-scroll-proportion="0.69574034" vertical-offset="407" max-vertical-offset="1065">
+        <state line="22" column="23" selection-start="925" selection-end="925" vertical-scroll-proportion="0.653144" vertical-offset="8" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/news.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2091" selection-end="2091" vertical-scroll-proportion="0.6647287" vertical-offset="407" max-vertical-offset="1395">
+        <state line="22" column="23" selection-start="920" selection-end="920" vertical-scroll-proportion="0.5523256" vertical-offset="45" max-vertical-offset="1425">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parlour.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2094" selection-end="2094" vertical-scroll-proportion="0.6356589" vertical-offset="422" max-vertical-offset="1590">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rolls.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2104" selection-end="2104" vertical-scroll-proportion="-14.291667" vertical-offset="407" max-vertical-offset="1080">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/roses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2097" selection-end="2097" vertical-scroll-proportion="-14.291667" vertical-offset="407" max-vertical-offset="1080">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ruby-violet's-ice-cream-dreams.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2112" selection-end="2112" vertical-scroll-proportion="-9.333333" vertical-offset="526" max-vertical-offset="1020">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/search-results.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="51" selection-start="2207" selection-end="2372" vertical-scroll-proportion="-16.791666" vertical-offset="497" max-vertical-offset="1110">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/saved-items.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="51" selection-start="2365" selection-end="2365" vertical-scroll-proportion="-14.583333" vertical-offset="535" max-vertical-offset="1110">
+        <state line="22" column="23" selection-start="923" selection-end="923" vertical-scroll-proportion="0.4360465" vertical-offset="105" max-vertical-offset="1635">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/result-detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="1350" selection-end="2100" vertical-scroll-proportion="-7.5" vertical-offset="570" max-vertical-offset="1095">
+        <state line="22" column="23" selection-start="929" selection-end="929" vertical-scroll-proportion="-5.625" vertical-offset="195" max-vertical-offset="1125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rolls.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="23" selection-start="933" selection-end="933" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="23" selection-start="926" selection-end="926" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruby-violet's-ice-cream-dreams.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="23" selection-start="941" selection-end="941" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saved-items.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="23" selection-start="927" selection-end="927" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search-results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="23" selection-start="930" selection-end="930" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1110">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sorbet.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2103" selection-end="2103" vertical-scroll-proportion="-10.916667" vertical-offset="488" max-vertical-offset="1065">
+        <state line="22" column="23" selection-start="932" selection-end="932" vertical-scroll-proportion="-13.75" vertical-offset="0" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/special-occasions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2099" selection-end="2099" vertical-scroll-proportion="0.69574034" vertical-offset="407" max-vertical-offset="2070">
+        <state line="22" column="23" selection-start="928" selection-end="928" vertical-scroll-proportion="0.6693712" vertical-offset="0" max-vertical-offset="2160">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testimonials.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2099" selection-end="2099" vertical-scroll-proportion="-14.291667" vertical-offset="407" max-vertical-offset="2265">
+        <state line="22" column="23" selection-start="928" selection-end="928" vertical-scroll-proportion="-5.9166665" vertical-offset="188" max-vertical-offset="2295">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/today's-flavours.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2098" selection-end="2098" vertical-scroll-proportion="0.69574034" vertical-offset="407" max-vertical-offset="1155">
+        <state line="22" column="23" selection-start="927" selection-end="927" vertical-scroll-proportion="0.6693712" vertical-offset="0" max-vertical-offset="1185">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/user-login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2097" selection-end="2097" vertical-scroll-proportion="0.4827586" vertical-offset="512" max-vertical-offset="1050">
+        <state line="22" column="23" selection-start="926" selection-end="926" vertical-scroll-proportion="0.6693712" vertical-offset="0" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/user-sign-up.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="59" selection-start="2099" selection-end="2099" vertical-scroll-proportion="0.8478702" vertical-offset="332" max-vertical-offset="1065">
+        <state line="22" column="23" selection-start="928" selection-end="928" vertical-scroll-proportion="0.6693712" vertical-offset="0" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
