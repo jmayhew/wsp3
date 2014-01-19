@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56dbbdc3-72e1-4b92-a519-26968681003d" name="Default" comment="" />
+    <list default="true" id="56dbbdc3-72e1-4b92-a519-26968681003d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gui.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="wsp3.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,10 +53,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user-login.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/user-login.html">
+      <file leaf-file-name="gui.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gui.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="4" selection-start="2251" selection-end="2251" vertical-scroll-proportion="1.643002" vertical-offset="0" max-vertical-offset="1095">
+            <state line="8" column="35" selection-start="179" selection-end="179" vertical-scroll-proportion="0.23715416" vertical-offset="0" max-vertical-offset="506">
               <folding />
             </state>
           </provider>
@@ -159,6 +162,7 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/user-sign-up.html" />
         <option value="$PROJECT_DIR$/user-login.html" />
+        <option value="$PROJECT_DIR$/gui.html" />
       </list>
     </option>
   </component>
@@ -194,7 +198,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -223,12 +226,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="extra-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wsp3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wsp3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,8 +258,17 @@
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../wsp/index.html" />
     <property name="SearchEverywhereHistory" value="=" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -252,23 +279,15 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -290,8 +309,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="22" width="1004" height="673" extended-state="1" />
-    <editor active="false" />
+    <frame x="7" y="22" width="1004" height="673" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -322,11 +341,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/meringues.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="467" max-vertical-offset="960" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="66" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1455" />
@@ -489,9 +503,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/layered-balls.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="23" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1035">
-          <folding />
-        </state>
+        <state line="22" column="23" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1035" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/meringues.html">
@@ -577,9 +589,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="65" selection-start="163" selection-end="163" vertical-scroll-proportion="0.15957446" vertical-offset="0" max-vertical-offset="1230">
-          <folding />
-        </state>
+        <state line="5" column="65" selection-start="163" selection-end="163" vertical-scroll-proportion="0.15957446" vertical-offset="0" max-vertical-offset="1230" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
@@ -591,14 +601,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user-sign-up.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="9" selection-start="2422" selection-end="2422" vertical-scroll-proportion="0.44016227" vertical-offset="668" max-vertical-offset="1185">
-          <folding />
-        </state>
+        <state line="59" column="9" selection-start="2422" selection-end="2422" vertical-scroll-proportion="0.44016227" vertical-offset="668" max-vertical-offset="1185" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/user-login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="4" selection-start="2251" selection-end="2251" vertical-scroll-proportion="1.643002" vertical-offset="0" max-vertical-offset="1095">
+        <state line="54" column="4" selection-start="2251" selection-end="2251" vertical-scroll-proportion="0.49492902" vertical-offset="566" max-vertical-offset="1095">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gui.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="35" selection-start="179" selection-end="179" vertical-scroll-proportion="0.23715416" vertical-offset="0" max-vertical-offset="506">
           <folding />
         </state>
       </provider>
