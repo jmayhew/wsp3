@@ -1,10 +1,9 @@
 @import url('normalize.css');
 
-#body
+body
 {
 
-    background-image:url('../images/aa84069c232e87ef52cddc39ab008ab5.jpg');
-    background-repeat:repeat;
+    background-color:powderblue;
 
 
 }
