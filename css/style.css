@@ -1,8 +1,12 @@
 @import url('normalize.css');
 
-body
+#body
 {
-    background-color:powderblue;
+
+    background-image:url('../images/aa84069c232e87ef52cddc39ab008ab5.jpg');
+    background-repeat:repeat;
+
+
 }
 #logo
 {
