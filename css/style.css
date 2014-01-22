@@ -3,75 +3,87 @@
 body
 {
 
-    background-color:powderblue;
 
+    background-image:url(../images/background1.jpg);
+    background-repeat: repeat;
 
 }
+
 #logo
 {
-
-    border-style:solid;
-    border-width:2px;
+    width:920px;
     background-color: #bcdae5;
     z-index:+1;
     margin-top: 13px;
     margin-left: 30px;
     margin-right: 30px;
+    font-family: 'Mystery Quest', cursive;
 }
+
 #menu li{
     list-style-type:none;
-    font-family:'Times New Roman';
     display:inline;
     text-decoration:none;
-    padding:5px;
+    padding:3px;
+    font-family: 'Mystery Quest', cursive;
 }
+
 #menu{
     width:996px;
     height:80px;
-    background-color:rgba(255, 255, 255, .5);
+    background-color:#bcdae5;
     float:right;
     margin-right:10px;
 }
+
 #menu a{
     text-decoration:none;
 }
+
 #menu ul li a:link		{
     color:#FFFFFF;/*white*/
 }
+
 a:visited{
-    color:purple;/*purple*/
+    color:purple;
 }
+
 a:hover{
-    color:#
+    color:cadetblue;
 }
+
 a:active{
-    color:#
+    color:#9798ff;/*light blue*/
 }
+
 footer{
+    font-family: 'Mystery Quest', cursive;
     background-color:lightblue;
-    border-style:solid;
-    border-width:2px;
     margin-bottom:13px;
     margin-top:13px;
+    color:cadetblue;
+    text-align:center;
 }
 
 #introduction{
+    font-family: 'Mystery Quest', cursive;
     background-color:#FFFFFF;
-    border-style:solid;
-    border-width:2px;
     margin-left:30px;
     margin-right:30px;
     margin-top:13px;
     margin-bottom:13px;
     text-transform:uppercase;
+    text-align:center;
 }
-h4{color:powderblue;
+
+h4{
+    font-family: 'Mystery Quest', cursive;
+    color: #b0e0e6;
 }
+
 #about, p
 {
     background-color:#FFFFFF;
-    border-style:solid;
-    border-width:2px;
     margin-left:30px;
     margin-right:30px;
     margin-top:13px;
@@ -79,84 +91,121 @@ h4{color:powderblue;
     color:powderblue;
 }
 
-#events, article{
+#events, article
+{
+    width:867px;
+    height:900px;
     background-color:#FFFFFF;
-    border-style:solid;
-    border-width:2px;
     margin-left:30px;
     margin-right:30px;
     margin-top:13px;
     margin-bottom:13px;
     color:powderblue;
+    font-family: 'Mystery Quest', cursive;
 }
+#wedding{
+
+width:400px;
+    height:608px;
+}
+
+
 #special, article{
     background-color:#FFFFFF;
-    border-style:solid;
-    border-width:2px;
     margin-left:30px;
     margin-right:30px;
     margin-top:13px;
     margin-bottom:13px;
     color:powderblue;
+    font-family: 'Mystery Quest', cursive;
 }
+
 #testimonial{
     background-color:#FFFFFF;
-    border-style:solid;
-    border-width:2px;
     margin-left:30px;
     margin-right:30px;
     margin-top:13px;
     margin-bottom:13px;
     color:powderblue;
+    font-family: 'Mystery Quest', cursive;
 }
-#flavour, article{background-color:#FFFFFF;
-    border-style:solid;
-    border-width:2px;
-    margin-left:30px;
-    margin-right:30px;
-    margin-top:13px;
-    margin-bottom:13px;
-    color:powderblue;}
-#parlour, article{background-color:#FFFFFF;
-    border-style:solid;
-    border-width:2px;
-    margin-left:30px;
-    margin-right:30px;
-    margin-top:13px;
-    margin-bottom:13px;
-    color:powderblue;}
-#gallery{background-color:#FFFFFF;
-    border-style:solid;
-    border-width:2px;
-    margin-left:30px;
-    margin-right:30px;
-    margin-top:13px;
-    margin-bottom:13px;
-    color:powderblue;}
-#sign-up{
+
+#flavour, article
+{
     background-color:#FFFFFF;
-    border-style:solid;
-    border-width:2px;
     margin-left:30px;
     margin-right:30px;
     margin-top:13px;
     margin-bottom:13px;
-    color:powderblue;}
-footer{
-color:cadetblue}
+    color:powderblue;
+    font-family: 'Mystery Quest', cursive;
 }
-#warning{
-    color:red;}
-form{
+
+#parlour, article
+{
     background-color:#FFFFFF;
-    border-style:solid;
-    border-width:2px;
     margin-left:30px;
     margin-right:30px;
     margin-top:13px;
     margin-bottom:13px;
-    color:powderblue;}
+    color:powderblue;
+    font-family: 'Mystery Quest', cursive;
 }
+
+#gallery
+{
+    background-color:#FFFFFF;
+    margin-left:30px;
+    margin-right:30px;
+    margin-top:13px;
+    margin-bottom:13px;
+
+}
+
+#sign-up
+{
+    background-color:#FFFFFF;
+    margin-left:30px;
+    margin-right:30px;
+    margin-top:13px;
+    margin-bottom:13px;
+    color:powderblue;
+    font-family: 'Mystery Quest', cursive;
+}
+
+#warning
+{
+    color:red;
+}
+
+form
+{
+    background-color:#FFFFFF;
+    margin-left:30px;
+    margin-right:30px;
+    margin-top:13px;
+    margin-bottom:13px;
+    color:powderblue;
+    font-family: 'Mystery Quest', cursive;
+}
+
+#search, article
+{
+
+    list-style-type:none;
+    background-color:#FFFFFF;
+    margin-left:30px;
+    margin-right:30px;
+    margin-top:13px;
+    margin-bottom:13px;
+    color:powderblue;
+    font-family: 'Mystery Quest', cursive;
+}
+#news{
+    font-family: 'Mystery Quest', cursive;
+}
+
+
 /*
 Responsive 996px grid system ~ Style CSS.
 Copyright 2013, Josh Cope
