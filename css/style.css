@@ -11,7 +11,7 @@ body
 
 #logo
 {
-    width:920px;
+    width:924px;
     background-color: #bcdae5;
     z-index:+1;
     margin-top: 13px;
@@ -29,8 +29,8 @@ body
 }
 
 #menu{
-    width:996px;
-    height:80px;
+    width:100%;/*996px*/
+    height:100%;/*80px*/
     background-color:#bcdae5;
     float:right;
     margin-right:10px;
@@ -56,14 +56,6 @@ a:active{
     color:#9798ff;/*light blue*/
 }
 
-footer{
-    font-family: 'Mystery Quest', cursive;
-    background-color:lightblue;
-    margin-bottom:13px;
-    margin-top:13px;
-    color:cadetblue;
-    text-align:center;
-}
 
 #introduction{
     font-family: 'Mystery Quest', cursive;
@@ -81,7 +73,7 @@ h4{
     color: #b0e0e6;
 }
 
-#about, p
+#about
 {
     background-color:#FFFFFF;
     margin-left:30px;
@@ -89,12 +81,17 @@ h4{
     margin-top:13px;
     margin-bottom:13px;
     color:powderblue;
+    overflow:hidden;
 }
+#portrait{padding-top:15px;
+    padding-bottom:15px;
+}
+
 
 #events, article
 {
-    width:867px;
-    height:900px;
+
+    overflow:hidden;
     background-color:#FFFFFF;
     margin-left:30px;
     margin-right:30px;
@@ -103,10 +100,11 @@ h4{
     color:powderblue;
     font-family: 'Mystery Quest', cursive;
 }
-#wedding{
 
-width:400px;
-    height:608px;
+#wedding{
+    padding-top:16px;
+width:400px;/*400/937*/
+    height:606px;/*606/665*/
 }
 
 
@@ -121,6 +119,7 @@ width:400px;
 }
 
 #testimonial{
+    overflow:hidden;
     background-color:#FFFFFF;
     margin-left:30px;
     margin-right:30px;
@@ -139,6 +138,8 @@ width:400px;
     margin-bottom:13px;
     color:powderblue;
     font-family: 'Mystery Quest', cursive;
+    overflow:hidden;
+    width:924px;
 }
 
 #parlour, article
@@ -173,10 +174,6 @@ width:400px;
     font-family: 'Mystery Quest', cursive;
 }
 
-#warning
-{
-    color:red;
-}
 
 form
 {
@@ -203,8 +200,28 @@ form
 }
 #news{
     font-family: 'Mystery Quest', cursive;
+    background-color:#FFFFFF;
+    margin-left:30px;
+    margin-right:30px;
+    margin-top:13px;
+    margin-bottom:13px;
+    color:powderblue;
+    overflow:hidden;
 }
+#contact{overflow:hidden;
+    text-align:center;}
 
+footer{
+    font-family: 'Mystery Quest', cursive;
+    background-color:lightblue;
+    margin-bottom:13px;
+    margin-top:13px;
+    color:cadetblue;
+    text-align:center;
+    height:80px;/*100%*/
+    overflow:hidden;
+    margin-left:19px;
+}
 
 /*
 Responsive 996px grid system ~ Style CSS.
