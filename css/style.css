@@ -73,7 +73,16 @@ h4{
     font-family: 'Mystery Quest', cursive;
     color: #3ad1ff;
 }
-#index{}
+
+#index{
+    width:954px;
+}
+
+#specials{
+    background-color:#FFFFFF;
+    width:924px;
+}
+
 #about
 {
     background-color:#FFFFFF;
@@ -157,8 +166,8 @@ width:400px;/*400/937*/
     margin-bottom:13px;
     color:#3ad1ff;
     font-family: 'Mystery Quest', cursive;
-    padding-top:16px;
-    width:924px;
+
+    width:894px;
 }
 
 #gallery
@@ -188,7 +197,7 @@ width:400px;/*400/937*/
     padding-right:16px;
     padding-bottom: 16px;
     padding-left:16px;
-    width:924px;
+    width:894px;
 
 }
 
@@ -205,7 +214,7 @@ width:400px;/*400/937*/
     padding-right:16px;
     padding-bottom: 16px;
     padding-left:16px;
-    width:924px;
+    width:894px;
 }
 
 #search
@@ -221,6 +230,7 @@ width:400px;/*400/937*/
     font-family: 'Mystery Quest', cursive;
     width:924px;
 }
+
 #news{
     font-family: 'Mystery Quest', cursive;
     background-color:#FFFFFF;
@@ -233,8 +243,22 @@ width:400px;/*400/937*/
     padding-top:16px;
     width:924px;
 }
-#contact{overflow:hidden;
-    text-align:center;}
+
+#contact{
+    overflow:hidden;
+    text-align:center;
+    width:924px;
+    background-color:#FFFFFF;
+    margin-left:30px;
+    margin-right:30px;
+    margin-top:13px;
+    margin-bottom:13px;
+    color:#3ad1ff;
+    overflow:hidden;
+    padding-top:16px;
+    font-family: 'Mystery Quest', cursive;
+}
+
 
 footer{
     font-family: 'Mystery Quest', cursive;
