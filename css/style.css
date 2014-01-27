@@ -206,8 +206,9 @@ h1{font-family: 'Mystery Quest', cursive;}
     padding-bottom: 16px;
     padding-left:16px;
     width:894px;
+    }
 
-}
+
 
 #log-in
 {
@@ -249,7 +250,8 @@ h1{font-family: 'Mystery Quest', cursive;}
     color:#3ad1ff;
     overflow:hidden;
     padding-top:16px;
-    width:924px;
+    padding-left: 16px;
+    width:908px;
 }
 
 #contact{
