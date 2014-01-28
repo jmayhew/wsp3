@@ -18,6 +18,7 @@ body
     margin-left: 30px;
     margin-right: 30px;
     font-family: 'Mystery Quest', cursive;
+    border-radius: 10px;
 }
 
 #menu li{
@@ -34,6 +35,7 @@ body
     background-color:#3ad1ff;
     float:right;
     margin-left: 30px;
+    border-radius: 10px;
 }
 
 #menu a{
@@ -67,20 +69,30 @@ a:active{
     text-transform:uppercase;
     text-align:center;
     width:924px;
+    border-radius: 10px;
 }
 
-h4{
+#introduction, p{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+
+h3{
     font-family: 'Mystery Quest', cursive;
     color: #3ad1ff;
 }
 
 #index{
     width:954px;
+    border-radius: 10px;
 }
 
 #specials{
     background-color:#FFFFFF;
     width:924px;
+    border-radius: 10px;
 }
 
 #about
@@ -93,6 +105,7 @@ h4{
     color:#3ad1ff;
     overflow:hidden;
     width:924px;
+    border-radius: 10px;
 }
 #portrait{padding-top:15px;
     padding-bottom:15px;
@@ -111,6 +124,7 @@ h4{
     color:#3ad1ff;
     font-family: 'Mystery Quest', cursive;
     width:924px;
+    border-radius: 10px;
 }
 
 #wedding{
@@ -141,6 +155,7 @@ width:400px;/*400/937*/
     color:#3ad1ff;
     font-family: 'Mystery Quest', cursive;
     width:924px;
+    border-radius: 10px;
 
 }
 
@@ -155,6 +170,7 @@ width:400px;/*400/937*/
     font-family: 'Mystery Quest', cursive;
     overflow:hidden;
     width:924px;
+    border-radius: 10px;
 }
 
 #parlour, article
@@ -166,7 +182,7 @@ width:400px;/*400/937*/
     margin-bottom:13px;
     color:#3ad1ff;
     font-family: 'Mystery Quest', cursive;
-
+    border-radius: 10px;
     width:894px;
 }
 
@@ -182,9 +198,11 @@ width:400px;/*400/937*/
     padding-bottom: 16px;
     padding-left:16px;
     width:894px;
+    border-radius: 10px;
 
 
 }
+
 #baked-alaska{
     width:670px;/*670/894=.77181208053691*/
     height:400px;/*400/*/
@@ -206,6 +224,7 @@ h1{font-family: 'Mystery Quest', cursive;}
     padding-bottom: 16px;
     padding-left:16px;
     width:894px;
+    border-radius: 10px;
     }
 
 
@@ -224,6 +243,7 @@ h1{font-family: 'Mystery Quest', cursive;}
     padding-bottom: 16px;
     padding-left:16px;
     width:894px;
+    border-radius: 10px;
 }
 
 #search
@@ -238,6 +258,7 @@ h1{font-family: 'Mystery Quest', cursive;}
     color:#3ad1ff;
     font-family: 'Mystery Quest', cursive;
     width:924px;
+    border-radius: 10px;
 }
 
 #news{
@@ -252,6 +273,7 @@ h1{font-family: 'Mystery Quest', cursive;}
     padding-top:16px;
     padding-left: 16px;
     width:908px;
+    border-radius: 10px;
 }
 
 #contact{
@@ -267,6 +289,7 @@ h1{font-family: 'Mystery Quest', cursive;}
     overflow:hidden;
     padding-top:16px;
     font-family: 'Mystery Quest', cursive;
+    border-radius: 10px;
 }
 
 
@@ -280,6 +303,7 @@ footer{
     height:80px;/*100%*/
     overflow:hidden;
     margin-left:19px;
+    border-radius: 10px;
 }
 
 /*
