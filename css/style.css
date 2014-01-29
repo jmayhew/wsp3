@@ -11,7 +11,7 @@ body
 
 #logo
 {
-    width:924px;
+    /*width:924px;*/
     background-color: #3ad1ff;
     z-index:+1;
     margin-top: 13px;
@@ -19,7 +19,15 @@ body
     margin-right: 30px;
     font-family: 'Mystery Quest', cursive;
     border-radius: 10px;
+    height:8.85%;/*177px;/*177/2000*.0155844155844*.0885*/
+    weight:62.720156555773%;/*641/1022*=.62720156555773*/
 }
+
+/*#banner{
+    height:.0885%;/*177px;/*177/2000*.0155844155844*.0885*/
+    /*641/1022*=.62720156555773*/
+
+
 
 #menu li{
     list-style-type:none;
@@ -70,11 +78,13 @@ a:active{
     text-align:center;
     width:924px;
     border-radius: 10px;
+    font-size:1em;
 }
 
 #introduction, p{
     padding-top: 5px;
     padding-bottom: 5px;
+    font-size:1em;
 }
 
 
@@ -82,8 +92,9 @@ a:active{
 h3{
     font-family: 'Mystery Quest', cursive;
     color: #3ad1ff;
+    font-size:1em;
 }
-
+/*index page height:1872px; width:1022px;*/
 #index{
     width:954px;
     border-radius: 10px;
@@ -111,7 +122,7 @@ h3{
     padding-bottom:15px;
 }
 
-
+/*events page height:1022px; width:1995px;*/
 #events, article
 {
 
@@ -143,7 +154,14 @@ width:400px;/*400/937*/
     color:#3ad1ff;
     font-family: 'Mystery Quest', cursive;
     width:924px;
+
 }
+
+#special, article, li{
+    list-style-type:none;
+}
+
+
 
 #testimonial{
 
