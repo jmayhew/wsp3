@@ -1,5 +1,6 @@
 @import url('normalize.css');
 
+
 html{
     font-size: 100%;
 }
@@ -10,7 +11,7 @@ body
 
     background-image:url(../images/background1.jpg);
     background-repeat: repeat;
-    font-size: large;
+
 
 
 }
@@ -41,8 +42,9 @@ body
     font-family: 'Mystery Quest', cursive;
 }
 
-#menu{
-    width:924px;/*924px*100%*/
+#menu
+{
+    width:924px;
     height:80px;
     background-color:#3ad1ff;
     float:right;
@@ -50,28 +52,34 @@ body
     border-radius: 10px;
 }
 
-#menu a{
+#menu a
+{
     text-decoration:none;
 }
 
-#menu ul li a:link		{
+#menu ul li a:link
+{
     color:#FFFFFF;/*white*/
 }
 
-a:visited{
+a:visited
+{
     color:purple;
 }
 
-a:hover{
+a:hover
+{
     color:cadetblue;
 }
 
-a:active{
+a:active
+{
     color:#9798ff;/*light blue*/
 }
 
 
-#introduction{
+#introduction
+{
     font-family: 'Mystery Quest', cursive;
     background-color:#FFFFFF;
     margin-left:30px;
@@ -80,15 +88,16 @@ a:active{
     margin-bottom:13px;
     text-transform:uppercase;
     text-align:center;
-    width:100%;/*924px;*/
+    width:924px;/**/
     border-radius: 10px;
 
 }
 
-#introduction, p{
+#introduction, p
+{
     padding-top: 5px;
     padding-bottom: 5px;
-    font-size:1em;
+
 }
 
 
@@ -96,9 +105,9 @@ a:active{
 h3{
     font-family: 'Mystery Quest', cursive;
     color: #3ad1ff;
-    font-size:1em;
+
 }
-/*index page height:1872px; width:1022px;*/
+
 #index{
     width:954px;
     border-radius: 10px;
@@ -128,7 +137,7 @@ h3{
     padding-bottom:15px;
 }
 
-/*events page height:1022px; width:1995px;*/
+
 #events, article
 {
 
@@ -146,8 +155,8 @@ h3{
 
 #wedding{
     padding-top:16px;
-    width:400px;/*400/937*/
-    height:606px;/*606/665*/
+    width:400px;
+    height:606px;
 }
 
 
@@ -193,7 +202,7 @@ h3{
     color:#3ad1ff;
     font-family: 'Mystery Quest', cursive;
     overflow:hidden;
-    width:924px;
+    width:924px;/*100%;*/
     border-radius: 10px;
 }
 
@@ -227,12 +236,14 @@ h3{
 
 }
 
-#baked-alaska{
-    width:670px;/*670/894=.77181208053691*/
-    height:400px;/*400/*/
+#baked-alaska
+{
+    width:670px;
+    height:400px;
 }
 
-h1{
+h1
+{
     font-family: 'Mystery Quest', cursive;
 }
 
@@ -329,10 +340,11 @@ footer
     margin-top:13px;
     color:#104a58;
     text-align:center;
-    height:90px;/*100%*/
+    height:90px;
     overflow:hidden;
     margin-left:19px;
     border-radius: 10px;
+    padding-bottom:10px;
 }
 
 /*
@@ -357,57 +369,133 @@ Copyright 2013, Josh Cope
    ========================================================================== */
 
 /* Tablet Portrait size to Base 996px */
-@media only screen and (min-width: 768px) and (max-width: 995px) {
+@media only screen and (min-width: 768px) and (max-width: 995px) {}
 
 
 
-}
+
 
 /* All Mobile Sizes */
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 767px) {}
 
-    #introduction{
-        font-size:1em;
-    }
 
-    #logo
-    {
-
-        height:8.85%;/*177px;/*177/2000*.0155844155844*.0885*/
-
-        width:62.720156555773%;/*641/1022*=.62720156555773*/
-    }
-}
 	
 
 /* Mobile Landscape Size to Tablet Portrait */
 @media only screen and (min-width: 480px) and (max-width: 767px){
 
-    #menu{
-        width:100%;/*924px*100%*/
-        height:80px;
+
+    .main_content{/*at width of 767/924px=.830087*/
+        height:83.0087%;
+        width:83.0087%;
+        font-size:.830087em;
+    }
+
+    #portrait{
+        height:83.0087%;
+        width:83.0087%;
+    }
+
+    #about{
+        height:83.0087%;
+        width:83.0087%;
+    }
+
+    #introduction{
+        font-size:.830087em;
+        width:83.0087%;
+        height:83.0087%;
+    }
+
+    .grid_12 {
+        width:83.0087%;
+        height:83.0087%;
+        font-size: .830087em;
+    }
+
+    .grid_6{
+        width:83.0087%;
+        height:83.0087%;
+        font-size: .830087em;
     }
 
     #logo
-{
+    {
 
-    height:8.85%;/*177px;/*177/2000*.0155844155844*.0885*/
+        height:83.0087%;
 
-    width:62.720156555773%;/*641/1022*=.62720156555773*/
+        width:83.0087%;
+    }
+
+    #icons{/*not working50/767=.065189048*/
+        height:83.0087%;
+
+        width:83.0087%;
 }
 
+#flavour{
+    font-size:.830087em;
+    height:83.0087%;
+
+    width:83.0087%;}
+    
+
 }
- 
+
 /* Mobile Portrait Size to Mobile Landscape Size */
 @media only screen and (max-width: 479px) {
 
     #logo
-{
+    {
 
-    height:8.85%;/*177px;/*177/2000*.0155844155844*.0885*/
+        height:83.0087%;
 
-    width:62.720156555773%;/*641/1022*=.62720156555773*/
+        width:83.0087%;
+    }
+
+    #introduction{
+        font-size:.518398em;
+        width:51.8398%;
+        height:51.8398%;
+    }
+
+    .main_content{/*479/924=.518398*/
+        height:51.8398%;
+        width:51.8398%;
+        font-size:.518398em;
+    }
+
+    #portrait{
+        height:51.8398%;
+        width:51.8398%;
+    }
+
+    #about{
+        height:51.8398%;
+        width:51.8398%;
+    }
+
+    .grid_12 {
+        width:51.8398%;
+        height:51.8398%;
+        font-size: .518398em;
+    }
+
+    .grid_6{
+        width:51.8398%;
+        height:51.8398%;
+        font-size: .518398em;
+    }
+
+
+    #icons{
+    height:51.8398%;
+
+    width:51.8398%;
 }
+
+
+
 
 }
 
