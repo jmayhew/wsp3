@@ -33,7 +33,7 @@ body
 
 
 
-#menu li
+nav li
 {
     list-style-type:none;
     display:inline;
@@ -42,7 +42,7 @@ body
     font-family: 'Mystery Quest', cursive;
 }
 
-#menu
+nav
 {
     width:924px;
     height:80px;
@@ -52,12 +52,12 @@ body
     border-radius: 10px;
 }
 
-#menu a
+nav a
 {
     text-decoration:none;
 }
 
-#menu ul li a:link
+nav ul li a:link
 {
     color:#FFFFFF;/*white*/
 }
