@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Ruby Violet-Search Results Page</title>
+    <title>Ruby Violet-Result Detail Page</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="description" content="">
@@ -20,8 +20,13 @@
 <div class="grid_12">
     <div id="logo">
         <a href="index.html"><img src="images/banner.png" alt="banner"/></a>
-        <a href="https://twitter.com/"><img src="images/099375-glossy-black-icon-social-media-logos-twitter-logo-square copy.png" alt="twitter icon"/></a>
-        <a href="https://www.facebook.com/"><img src="images/099303-facebook-logo-square copy.png" alt="facebook icon"/></a>
+                <a href="https://twitter.com/"><img src="images/099375-glossy-black-icon-social-media-logos-twitter-logo-square copy.png" alt="twitter icon"/></a>
+                <a href="https://www.facebook.com/"><img src="images/099303-facebook-logo-square copy.png" alt="facebook icon"/></a>
+                <div id="searchbar">
+                    <form id="itemsearch" method="get" action="search-results.html">
+                        <input type="text" class="input" name="faux" size="21" maxlength="120">
+                        <input type="submit" value="Search" class="button">
+                    </form>
     </div><!--logo-->
 </div><!--class logo-->
 <div class="grid_9">
@@ -34,7 +39,7 @@
 
             </p>Closed ALL of January   |   Re-open 1 Feb 11:00-19:00<p></p>
         </h3>
-    </div><!--id introduction-->
+    </div><!--introduction-->
 </div><!--class introduction-->
 <div class="grid_12">
     <div id="menu">
@@ -55,51 +60,27 @@
         </nav>
     </div><!--menu-->
 </div><!--class menu-->
-<div id="results">
-    <h1>Search Results</h1>
-    <table class="center">
-        <tr>
-            <th width="14%"><div align="center">Dessert</div></th>
-            <th width="54%"><div align="center">Description</div></th>
-            <th width="16%"><div align="center">Price</div></th>
-        </tr>
-        <tr>
-            <td><div align="center"><a href="mini-meringues-result-detail.html"><img src="images/mini-meringues.jpg" alt="mini meringues"></a></div>
-                <p align="center"><a href="mini-meringues-result-detail.html">Mini Meringues</a></p></td>
-            <td><p>Mini Meringues<br>
-                Hand-made meringues<br>
-                <p></p></td>
-            <td><div align="center">$.50p each</div></td>
-        </tr>
-        <tr>
-            <td><div align="center"><a href="antarctic-rolls-result-detail.html"><img src="images/antarctic-roll.jpg" alt="antarctic rolls"></a></div>
-                <p align="center"><a href="antarctic-rolls-result-detail.html">Antarctic Rolls</a></p></td>
-            <td><p>Ruby's Antarctic Rolls<br>
-                Individually hand made to order, each delicious roll is unique.<br>
+<div class="grid_6">
+    <div id="search">
+        <table class="center">
+            <tr>
+                <td><div align="center"><img src="images/bombe_3.jpg" alt="ice cream bombes"></div>
+                    <p align="center">Ice Cream Bombes</p></td>
+                <td>Two to four layers, a choice of flavours, with or without a sponge base.<br>
+                    Sizes to suit 6-12 people.<br>
 
-                Ruby’s Roll approximate dimensions are 20 cm x 8 cm. <br>
-                </p>
-                <p></p></td>
+                    Outermost layer shown on top of diagram to left.<br>
+                    Sorbets, if chosen, need to be in the centre of the bombe.<br>
+                    Ripples, if chosen, cannot go on the outside.<br>
+                    We will contact you to arrange an alternative should your order not fit these criteria.<br>
 
-            <td><div align="center">$30</div></td>
-        </tr>
-        <tr>
-            <td><div align="center"><a href="ice-cream-bombes-result-detail.html"><img src="images/bombe_3.jpg" alt="ice cream bombes"></a></div>
-                <p align="center"><a href="ice-cream-bombes-result-detail.html">Ice Cream Bombes</a></p></td>
-            <td>Two to four layers, a choice of flavours, with or without a sponge base.<br>
-                Sizes to suit 6-12 people.<br>
+                    <br></td>
 
-                Outermost layer shown on top of diagram to left.<br>
-                Sorbets, if chosen, need to be in the centre of the bombe.<br>
-                Ripples, if chosen, cannot go on the outside.<br>
-                We will contact you to arrange an alternative should your order not fit these criteria.<br>
-
-                <br></td>
-
-            <td><div align="center">$25</div></td>
-        </tr>
-    </table>
-</div>
+                <td><div align="center">$25</div></td>
+            </tr>
+        </table>
+    </div><!--id search-->
+</div><!--class search-->
 <div class="grid_12">
     <div id="footer">
         <footer>

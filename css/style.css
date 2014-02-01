@@ -33,7 +33,7 @@ body
 
 
 
-nav li
+#menu li
 {
     list-style-type:none;
     display:inline;
@@ -42,7 +42,7 @@ nav li
     font-family: 'Mystery Quest', cursive;
 }
 
-nav
+#menu
 {
     width:924px;
     height:80px;
@@ -52,12 +52,12 @@ nav
     border-radius: 10px;
 }
 
-nav a
+#menu a
 {
     text-decoration:none;
 }
 
-nav ul li a:link
+#menu ul li a:link
 {
     color:#FFFFFF;/*white*/
 }
@@ -345,6 +345,16 @@ footer
     margin-left:19px;
     border-radius: 10px;
     padding-bottom:10px;
+}
+
+#results {
+    text-align: center;
+}
+table {
+    background-color:#FFFFFF;
+    border-radius: 10px;
+    width: 100%;
+    font-family: 'Mystery Quest', cursive;
 }
 
 /*
